@@ -30,3 +30,7 @@ Skill do [Claude Code](https://claude.ai/code) que executa os itens pendentes de
 ## Origem
 
 Nasceu de uma rodada real: quatro itens executados em paralelo geraram duas migrations com a mesma versão. Esta versão roda em sequência e reserva a versão antes de cada item.
+
+## Licença
+
+MIT. Veja [LICENSE](LICENSE).
